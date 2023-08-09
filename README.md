@@ -1,4 +1,5 @@
-![](https://i.gifer.com/YNXo.gif)
+
+![YNXo](https://github.com/weedatom/weedatom/assets/115914024/7a085136-5d46-48c5-afaf-386fbee12f68)
 
 My Discord-
 
