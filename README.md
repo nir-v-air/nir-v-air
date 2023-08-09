@@ -1,4 +1,4 @@
-https://media.tenor.com/m1yjU7NaDm0AAAAM/anime.gif
+![](https://media.tenor.com/m1yjU7NaDm0AAAAM/anime.gif)
 
 My Discord-
 
