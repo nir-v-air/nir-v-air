@@ -12,3 +12,9 @@ My Discord-
 
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=775717417845522442)
+
+
+My Wakatime stats-
+
+
+[![WeedAtom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=weedatom)](https://github.com/anuraghazra/github-readme-stats)
