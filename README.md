@@ -10,7 +10,7 @@
 ![YNXo](https://github.com/weedatom/weedatom/assets/115914024/7a085136-5d46-48c5-afaf-386fbee12f68)
 
 - 🔭 I’m currently working on [Animein](https://animein.fun)
-![Discord Banner 4](https://discordapp.com/api/guilds/1116004984237064242/widget.png?style=banner4)
+- Browser I Use - ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 
 
