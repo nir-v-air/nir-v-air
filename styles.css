@@ -92,12 +92,12 @@ ul .icon:hover {
   width:385px;
  }
  
- / Text area */
+ /* Text area */
  .wrapper .box .text-area{
   transform:translatex(-73px) translatey(8px);
  }
  
- / Logo */
+ /* Logo */
  .wrapper .box img{
   transform:translatex(154px) translatey(-318px);
   width:72px;
