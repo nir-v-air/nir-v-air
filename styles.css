@@ -79,3 +79,30 @@ ul .icon:hover {
     margin: auto;
     margin-top: 10%;
 }
+/* Socials */
+.box .text-area .socials{
+ height:3px;
+}
+
+@media (max-width:576px){
+
+ /* Box */
+ .center-div .wrapper .box{
+  transform:translatex(-52px) translatey(17px);
+  width:385px;
+ }
+ 
+ / Text area */
+ .wrapper .box .text-area{
+  transform:translatex(-73px) translatey(8px);
+ }
+ 
+ / Logo */
+ .wrapper .box img{
+  transform:translatex(154px) translatey(-318px);
+  width:72px;
+  position:relative;
+  left:-35px;
+ }
+ 
+}
